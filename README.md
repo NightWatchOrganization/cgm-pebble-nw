@@ -1,5 +1,11 @@
-cgm-pebble
-==========
+cgm-pebble-nw
+=============
+
+NOTE: This is NightWatch change to cgm-pebble. If you have switched your application to NightWatch WebService you need to use 
+    this pebble.
+
+
+MISSING HOW TO CONFIGURE !!!!
 
 Basic pebble watch face (or app if you change the appinfo.json)
 
